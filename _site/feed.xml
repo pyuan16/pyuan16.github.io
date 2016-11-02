@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-02T12:01:38+08:00</updated><id>http://localhost:4000//</id><title type="html">pyuan</title><subtitle>pyuan
+</subtitle><entry><title type="html">the blog</title><link href="http://localhost:4000/2016/11/02/the-blog.html" rel="alternate" type="text/html" title="the blog" /><published>2016-11-02T00:00:00+08:00</published><updated>2016-11-02T00:00:00+08:00</updated><id>http://localhost:4000/2016/11/02/the-blog</id><content type="html" xml:base="http://localhost:4000/2016/11/02/the-blog.html">&lt;h3 id=&quot;section&quot;&gt;关于此博客的一些内容&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;leetcode相关题目&lt;/li&gt;
+  &lt;li&gt;机器学习相关总结&lt;/li&gt;
+  &lt;li&gt;源码分析&lt;/li&gt;
+  &lt;li&gt;一些公开课的内容&lt;/li&gt;
+&lt;/ol&gt;</content><summary type="html">关于此博客的一些内容
+
+  leetcode相关题目
+  机器学习相关总结
+  源码分析
+  一些公开课的内容</summary></entry><entry><title type="html">Welcome to Pyuan’s blog!</title><link href="http://localhost:4000/2016/11/01/welcome-to-pyuan.html" rel="alternate" type="text/html" title="Welcome to Pyuan's blog!" /><published>2016-11-01T20:59:26+08:00</published><updated>2016-11-01T20:59:26+08:00</updated><id>http://localhost:4000/2016/11/01/welcome-to-pyuan</id><content type="html" xml:base="http://localhost:4000/2016/11/01/welcome-to-pyuan.html">&lt;h1 id=&quot;hello&quot;&gt;Hello!&lt;/h1&gt;</content><summary type="html">Hello!</summary></entry></feed>
